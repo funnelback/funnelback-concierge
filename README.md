@@ -88,7 +88,7 @@ Replace:
       'searchBasedCompletionEnabled': <@s.cfg>auto-completion.search.enabled</@s.cfg>,
       'searchBasedCompletionProgram': '<@s.cfg>auto-completion.search.program</@s.cfg>',
     });
-    ```
+```
 
 With:
 
